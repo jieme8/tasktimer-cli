@@ -1,0 +1,19 @@
+{
+  "name": "tasktimer-cli",
+  "version": "1.0.2",
+  "description": "node定时任务执行器",
+  "main": "./lib/timers.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jieme8/tasktimer-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jieme8/tasktimer-cli/issues"
+  },
+  "homepage": "https://github.com/jieme8/tasktimer-cli#readme"
+}
